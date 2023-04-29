@@ -12,4 +12,4 @@ Challenge : Help the dog salon owner to answer follow these questions
 9. The town where the dog salon is located had a street fair on June 17 and 18. The business owner wants to know how many transactions took place on those days
 10. What size dogs are there for service? and how many of each size?
 
-Please see the Challenge [HERE](https://github.com/Msutinee/SQL-Dog-Salon-Promotion-Week)
+Please see the Challenge [HERE](https://github.com/Msutinee/SQL-Dog-Salon-Promotion-Week/blob/main/notebook.ipynb)
